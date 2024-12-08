@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**nadhirah0456/nadhirah0456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍🎓 About Me
 
-Here are some ideas to get you started:
+- **🎓 Bachelor's Student in Computer Science**  
+  Passionate about learning, coding, and problem-solving.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **🌟 Aspiring Open Source Contributor**  
+  Looking to collaborate on projects and expand my skills.  
+
+- **💡 Areas of Interest**  
+  - Data Structures  
+  - Algorithms  
+  - Databases  
+  - Open Source Development  
+
+## 📬 How to Reach Me  
+Feel free to connect with me via GitHub Discussions or email at [your email address].  
+
+## 🔗 Let's Build Together  
+Exploring repositories, fixing bugs, and contributing to meaningful projects is my goal!
