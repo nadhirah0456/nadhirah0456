@@ -15,7 +15,7 @@
   - Open Source Development  
 
 ## 📬 How to Reach Me  
-Feel free to connect with me via GitHub Discussions or email at [your email address].  
+Feel free to connect with me via GitHub Discussions or email at nadhirah0456@gmail.com.  
 
 ## 🔗 Let's Build Together  
 Exploring repositories, fixing bugs, and contributing to meaningful projects is my goal!
